@@ -1,0 +1,1 @@
+The protein is predicted to be a small heat shock protein–like molecular chaperone containing the conserved Sm_HSP_B1 domain. It likely helps protect cells under stress by preventing aggregation of misfolded proteins in an ATP-independent manner.
